@@ -19,5 +19,5 @@ This website explores how youth, education, and exchange programs such as the YE
 - Hosted on **GitHub Pages**
 
 ## 👥 Author
-Developed by **Moustapha Benjamin Ndiaye**  
+Developed by **Moustapha Ndiaye**  
 Berea College, GSTR 410 — Fall 2025
